@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API Practice", "API Practice\API Practice.csproj", "{92E70FA9-7F3E-4F91-A433-06826348DA58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLHelper", "SQLHelper\SQLHelper.csproj", "{7E29F91E-98D6-4B00-B397-917369CAAA6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E70FA9-7F3E-4F91-A433-06826348DA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E70FA9-7F3E-4F91-A433-06826348DA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E70FA9-7F3E-4F91-A433-06826348DA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E70FA9-7F3E-4F91-A433-06826348DA58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E29F91E-98D6-4B00-B397-917369CAAA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E29F91E-98D6-4B00-B397-917369CAAA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E29F91E-98D6-4B00-B397-917369CAAA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E29F91E-98D6-4B00-B397-917369CAAA6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA5B0D31-4262-403D-925B-1C594D6A35E3}
+	EndGlobalSection
+EndGlobal
